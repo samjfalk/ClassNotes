@@ -1,0 +1,9 @@
+INFO:__main__:simple update
+WARNING:__main__:you've seen these many times
+ERROR:__main__:log error message
+CRITICAL:__main__:S*** F***
+DEBUG:__main__:very granular
+INFO:__main__:simple update
+WARNING:__main__:you've seen these many times
+ERROR:__main__:log error message
+CRITICAL:__main__:S*** F***
